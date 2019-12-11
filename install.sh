@@ -37,6 +37,16 @@ echo "- Installing Floflis Grass as init program..."
 sudo echo "$(cat /usr/lib/floflis/layers/grass/flo-init)" >> /etc/init.d/flo-init && sudo rm -f /usr/lib/floflis/layers/grass/flo-init
 sudo chmod 755 /etc/init.d/flo-init && sudo update-rc.d flo-init defaults
 
+echo "- Installing graphical UI..."
+sudo apt-get update -y;sudo apt-get install xserver-xorg x11-xserver-utils xfonts-base x11-utils lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings light-locker lxpolkit desktop-profiles greybird-gtk-theme pavucontrol
+echo "- Installing programs..."
+sudo apt-get install redshift
+
+   if [ ! -e /usr/lib/floflis/layers/base ]
+   then
+      sudo apt-get install dillo xterm
+fi
+
    echo "- Cleanning install, saving settings..."
    sudo rm /usr/lib/floflis/layers/grass/install.sh
    sudo sed -i 's/grass/base/g' /usr/lib/floflis/config && sudo sed -i 's/soil/grass/g' /usr/lib/floflis/config
