@@ -47,14 +47,29 @@ sudo apt-get install redshift
       sudo apt-get install dillo xterm
 fi
 
+   echo "Creating Desktop icons..."
+   cat > ~/Desktop/internet.desktop << ENDOFFILE
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Internet
+Comment="Access the Internet, for search/browse sites, chat, listen music, watch videos/movies and communicate on social networks"
+Exec=dillo
+Icon=dillo
+Path=
+Terminal=false
+StartupNotify=false
+
+ENDOFFILE
+
    echo "- Cleanning install, saving settings..."
    sudo rm /usr/lib/floflis/layers/grass/install.sh
    sudo sed -i 's/grass/base/g' /usr/lib/floflis/config && sudo sed -i 's/soil/grass/g' /usr/lib/floflis/config
    echo "(✓) Floflis Soil has been upgraded to Floflis Grass."
 else
    echo "(X) Floflis Soil isn't found. Please install Floflis DNA before installing Floflis Grass."
-#   echo ""
-#   echo "Floflis DNA at IPFS:"
-#   echo "Normal version: https://gateway.pinata.cloud/ipfs/QmdweQW6FUjvMHCKSz5h7WpMifgzFvh2SFm9T4hiZ6rY4h"
-#   echo "Lite version: https://gateway.pinata.cloud/ipfs/QmXSiq2atUQeisoiV3PDisNP4LecBCNLv6p6nymvn6JyRL"
+   echo ""
+   echo "Floflis DNA at IPFS:"
+   echo "Normal version: https://gateway.pinata.cloud/ipfs/QmdweQW6FUjvMHCKSz5h7WpMifgzFvh2SFm9T4hiZ6rY4h"
+   echo "Lite version: https://gateway.pinata.cloud/ipfs/QmXSiq2atUQeisoiV3PDisNP4LecBCNLv6p6nymvn6JyRL"
 fi
