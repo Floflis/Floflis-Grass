@@ -90,6 +90,7 @@ Terminal=false
 StartupNotify=false
 
 ENDOFFILE
+$maysudo chmod -R a+rwX ~/Desktop/internet.desktop
 
    echo "- Cleanning install, saving settings..."
    $maysudo rm /usr/lib/floflis/layers/grass/install.sh
