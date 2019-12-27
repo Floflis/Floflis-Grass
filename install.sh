@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Layer: Grass
+
 # load definitions & settings
 source /usr/lib/floflis/config
 # it doesn't works yet. need to do it manually here:
