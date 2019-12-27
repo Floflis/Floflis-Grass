@@ -69,11 +69,11 @@ $maysudo chmod 755 /etc/init.d/flo-init && $maysudo update-rc.d flo-init default
 echo "- Installing graphical UI..."
 $maysudo apt-get install xserver-xorg x11-xserver-utils xfonts-base x11-utils lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings light-locker lxpolkit desktop-profiles greybird-gtk-theme pavucontrol -y
 echo "- Installing programs..."
-$maysudo apt-get install redshift
+$maysudo apt-get install redshift -y
 
    if [ ! -e /usr/lib/floflis/layers/base ]
    then
-      $maysudo apt-get install dillo xterm
+      $maysudo apt-get install dillo xterm -y
 fi
 
    echo "Creating Desktop icons..."
