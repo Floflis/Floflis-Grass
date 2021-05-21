@@ -66,31 +66,35 @@ echo "- Installing Floflis Grass as init program..."
 $maysudo echo "$(cat /usr/lib/floflis/layers/grass/flo-init)" >> /etc/init.d/flo-init && $maysudo rm -f /usr/lib/floflis/layers/grass/flo-init
 $maysudo chmod 755 /etc/init.d/flo-init && $maysudo update-rc.d flo-init defaults
 
-echo "- Installing graphical UI..."
-$maysudo apt-get install xserver-xorg x11-xserver-utils xfonts-base x11-utils lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings light-locker lxpolkit desktop-profiles greybird-gtk-theme pavucontrol -y
+#echo "- Installing graphical UI..."
+# $maysudo apt-get install xserver-xorg x11-xserver-utils xfonts-base x11-utils lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings light-locker lxpolkit desktop-profiles greybird-gtk-theme pavucontrol -y # AntiX-only
 echo "- Installing programs..."
-$maysudo apt-get install redshift -y
+#-$maysudo apt-get install redshift -y
+#-less things to add
 
-   if [ ! -e /usr/lib/floflis/layers/base ]
-   then
-      $maysudo apt-get install dillo xterm -y
-fi
+# ONLY INSTALL IF NEWER LAYERS AREN'T DETECTED
+#-   if [ ! -e /usr/lib/floflis/layers/base ]
+#-   then
+#-      $maysudo apt-get install dillo xterm -y
+#-fi
+#-less things to add
 
-   echo "Creating Desktop icons..."
-   cat > ~/Desktop/internet.desktop << ENDOFFILE
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Internet
-Comment="Access the Internet, for search/browse sites, chat, listen music, watch videos/movies and communicate on social networks"
-Exec=dillo
-Icon=dillo
-Path=
-Terminal=false
-StartupNotify=false
-
-ENDOFFILE
-$maysudo chmod -R a+rwX ~/Desktop/internet.desktop
+#-   echo "Creating Desktop icons..."
+#-   cat > ~/Desktop/internet.desktop << ENDOFFILE
+#-[Desktop Entry]
+#-Version=1.0
+#-Type=Application
+#-Name=Internet
+#-Comment="Access the Internet, for search/browse sites, chat, listen music, watch videos/movies and communicate on social networks"
+#-Exec=dillo
+#-Icon=dillo
+#-Path=
+#-Terminal=false
+#-StartupNotify=false
+#-
+#-ENDOFFILE
+#-$maysudo chmod -R a+rwX ~/Desktop/internet.desktop
+#-less things to add
 
    echo "- Cleanning install, saving settings..."
    $maysudo rm /usr/lib/floflis/layers/grass/install.sh
