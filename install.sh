@@ -29,13 +29,13 @@ if [ "$([[ $UID -eq 0 ]] || echo "Not root")" = "Not root" ]
       is_root=true
 fi
 
-$maysudo=""
+maysudo=""
 
 if [ "$is_root" = "false" ]
    then
-      $maysudo="sudo"
+      maysudo="sudo"
    else
-      $maysudo=""
+      maysudo=""
 fi
 
 cat << "EOF"
@@ -61,8 +61,18 @@ echo "- Installing Floflis Grass as init program..."
 $maysudo echo "$(cat /usr/lib/floflis/layers/grass/flo-init)" >> /etc/init.d/flo-init && $maysudo rm -f /usr/lib/floflis/layers/grass/flo-init
 $maysudo chmod 755 /etc/init.d/flo-init && $maysudo update-rc.d flo-init defaults
 
-#echo "- Installing graphical UI..."
+echo "- Installing graphical UI..."
 # $maysudo apt-get install xserver-xorg x11-xserver-utils xfonts-base x11-utils lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings light-locker lxpolkit desktop-profiles greybird-gtk-theme pavucontrol -y # AntiX-only
+#-
+if [[ "$flofarch" != "amd64" ]]; then
+sudo apt-get update -y
+sudo apt-get install -y xserver-xorg-core
+sudo apt-get install -y 9wm
+sudo apt-get install -y rc
+rc
+sudo apt-get install -y xinit
+fi
+
 echo "- Installing programs..."
 #-$maysudo apt-get install redshift -y
 #-less things to add
