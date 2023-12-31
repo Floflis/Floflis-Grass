@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Floflis - Dther layers/4.grass
+
+  File: ./floflis
+  Size: 11        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1459269     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:38:15.651327500 -0300
+Modify: 2019-12-09 19:14:06.968668000 -0300
+Change: 2021-11-02 14:44:15.000004400 -0300
+ Birth: 2021-11-02 14:44:14.999235800 -0300
+IPFS hash: QmWM7h43T6RpmiEyowNViERJHDd1Cdz2bqq9o1948D46BG
+------------------------------
+  File: ./flo-init
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1459270     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:38:15.715328100 -0300
+Modify: 2019-12-09 19:14:17.266236000 -0300
+Change: 2021-11-02 14:44:15.000978200 -0300
+ Birth: 2021-11-02 14:44:15.000561000 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./install.sh
+  Size: 3664      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1472634     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:38:15.831329300 -0300
+Modify: 2021-11-07 18:01:32.339403200 -0300
+Change: 2021-11-07 18:01:32.414537700 -0300
+ Birth: 2021-11-07 18:01:32.328851000 -0300
+IPFS hash: Qmajy4kQEuepCWw7uruLZ1GgqPH76EAF11bWzUmKeYgEaS
+------------------------------
+  File: ./presentation
+  Size: 462       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1459271     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:38:15.935330400 -0300
+Modify: 2019-12-09 19:38:42.031364000 -0300
+Change: 2021-11-02 14:44:15.002185300 -0300
+ Birth: 2021-11-02 14:44:15.001550800 -0300
+IPFS hash: QmYom4kGH68tYtA6HDvC3CUHtiUsmWXNuKdMtJMZHJfxzu
+------------------------------
+  File: ./README.md
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1459272     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:38:15.999331000 -0300
+Modify: 2019-12-09 19:15:28.445172000 -0300
+Change: 2021-11-02 14:44:15.003251800 -0300
+ Birth: 2021-11-02 14:44:15.002795900 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./TasksInclude -> /media/daniella/B/git/Floflis/Floflis/Floflis 19/LayersTasks/0. Layers/3-Grass
+  Size: 78        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,20	Inode: 4391744     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-12 10:51:09.310881300 -0300
+Modify: 2023-12-12 10:51:09.278881000 -0300
+Change: 2023-12-12 10:51:09.278881000 -0300
+ Birth: -
+IPFS hash: QmVwZgC7izj9GSnTeVszGjJS6UbKEFQqHsd3yTf9grgm5B
+------------------------------
