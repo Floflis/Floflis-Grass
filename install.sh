@@ -11,6 +11,9 @@
 
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
+export FLOPREFIX
+export flofmach && export flofdistro && export flofarch && export osfullname && export osname && export osversion && export osbuild && export osbuildcodename && export updatepatch && export year && export layer && export nxtlayer && export distrobase && export user && export specialbuildattempt
+
 # would detect fakeroot 
 #for path in ${LD_LIBRARY_PATH//:/ }; do
 #   if [[ "$path" == *libfakeroot ]]
@@ -39,7 +42,7 @@ if [ "$is_root" = "false" ]
 fi
 
 if [ -e "$FLOPREFIX"tmp/cubicmode ]; then maysudo="";fi
-if [[ $flofmach == "Termux" ]]; then maysudo="";fi
+if [[ "$flofmach" == "Termux" ]]; then maysudo="";fi
 
 cat << "EOF"
 -. .-.   .-. .-.   .-. .-.   .
@@ -104,7 +107,7 @@ echo "- Installing programs..."
 #-$maysudo chmod -R a+rwX ~/Desktop/internet.desktop
 #-less things to add
 
-if [[ $flofmach != "Termux" ]]; then
+if [[ "$flofmach" != "Termux" ]]; then
 if [ -e /tmp/cubicmode ]; then
       echo "Detected Cubic mode 🧚"
       echo "Installing to-merge.sh..."
