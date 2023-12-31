@@ -19,15 +19,6 @@ cd "$SCRIPTPATH"
 #-
 sudo chmod -R a+rwX "$FLOPREFIX"home/${flouser}/.config/nushell && sudo chown -R ${flouser}:${flouser} "$FLOPREFIX"home/${flouser}/.config/nushell
 
-# Replace Nushell's banner in Termux:
-if [[ $flofmach == "Termux" ]]; then
-cp -f "$FLOPREFIX"usr/lib/floflis/layers/soil/to-merge/include-firstlogon/home-.config/nushell/termux-banner.txt "$FLOPREFIX"home/${flouser}/.config/nushell/termux-banner.txt
-cat >> "$FLOPREFIX"home/${flouser}/.config/nushell/config.nu <<EOF
-"$env.config.show_banner = false" out> $nu.config-path
-cat ~/.config/nushell/termux-banner.txt
-EOF
-fi
-
 #-
 dconf write /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/login-shell false
 dconf write /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/use-custom-command true
