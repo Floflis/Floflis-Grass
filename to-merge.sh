@@ -88,14 +88,20 @@ geth -h
 echo "Installing Hugo (you did great, elder blogspot.com)..."
 if [ "$flofarch" = "386" ]; then
    $maysudo dpkg -i --no-force-all --refuse-downgrade include/deb\ packages/hugo/hugo_0.89.2_Linux-32bit.deb # flags insp from https://askubuntu.com/a/441829 and https://askubuntu.com/a/442171 [HAVE TO UPVOTE]
-   echo "Testing if Hugo works:"
-   hugo -h
 fi
 if [ "$flofarch" = "amd64" ]; then
    $maysudo dpkg -i --no-force-all --refuse-downgrade include/deb\ packages/hugo/hugo_extended_0.110.0_linux-amd64.deb # flags insp from https://askubuntu.com/a/441829 and https://askubuntu.com/a/442171 [HAVE TO UPVOTE]
-   echo "Testing if Hugo works:"
-   hugo -h
 fi
+#-
+if [ "$flofarch" = "arm64" ]; then
+   $maysudo dpkg -i --no-force-all --refuse-downgrade include/deb\ packages/hugo/hugo_extended_0.110.0_linux-arm64.deb # flags insp from https://askubuntu.com/a/441829 and https://askubuntu.com/a/442171 [HAVE TO UPVOTE]
+fi
+#-
+if [[ "$flofarch" != "amd64" ]]; then
+if [[ "$flofarch" != "arm64" ]]; then $maysudo apt install hugo;fi
+fi
+echo "Testing if Hugo works:"
+hugo -h
 
 echo "Installing important libs:"
 echo "Installing unzip..."
@@ -128,6 +134,7 @@ $maysudo dpkg -i --no-force-all --refuse-downgrade include/DEB/indicator-stickyn
 #$maysudo apt-add-repository ppa:umang/indicator-stickynotes
 #$maysudo apt-get update
 #$maysudo apt-get install indicator-stickynotes
+$maysudo apt install indicator-stickynotes -y
 $maysudo apt --fix-broken install
 echo "Installing Paint..."
 $maysudo apt install kolourpaint -y
