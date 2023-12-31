@@ -1,0 +1,32 @@
+#Gedit settings
+[org.gnome.gedit.preferences.editor]
+auto-indent=true
+bracket-matching=true
+display-line-numbers=true
+display-overview-map=true
+display-right-margin=true
+highlight-current-line=true
+scheme='oblivion'
+search-highlighting=true
+syntax-highlighting=true
+tabs-size=uint32 4
+use-default-font=true
+ensure-trailing-newline=true
+max-undo-actions=2000
+
+[org.nemo.preferences]
+image-viewers-with-external-sort=['gthumb', 'shotwell', 'eog', 'xviewer', 'feh', 'sxiv']
+sort-directories-first=true
+sort-favorites-first=true
+show-list-view-icon-toolbar=true
+show-location-entry=true
+show-image-thumbnails='local-only'
+thumbnail-limit=uint64 4294967295
+tooltips-in-icon-view=true
+tooltips-in-list-view=true
+tooltips-on-desktop=true
+tooltips-show-file-type=true
+tooltips-show-mod-date=true
+
+[org.nemo.window-state]
+sidebar-width=200

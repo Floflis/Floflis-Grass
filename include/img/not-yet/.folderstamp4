@@ -1,0 +1,42 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Floflis-DNA/layers/soil/include/img/not-yet
+
+  File: ./bg.png
+  Size: 524551    	Blocks: 1032       IO Block: 4096   regular file
+Device: 8,20	Inode: 2439208     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-20 19:58:29.469071000 -0300
+Modify: 2019-04-21 23:24:42.854187000 -0300
+Change: 2021-06-27 14:03:59.435406800 -0300
+ Birth: 2021-05-22 23:16:57.121711800 -0300
+IPFS hash: QmUsrykhFu1ox2kdxJ9HEHi2rdVS9id3fwgetf6yzxgeZy
+------------------------------
+  File: ./logo plain.png
+  Size: 247021    	Blocks: 488        IO Block: 4096   regular file
+Device: 8,20	Inode: 3166929     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-20 19:58:29.301067500 -0300
+Modify: 2019-07-25 00:18:54.000000000 -0300
+Change: 2022-02-19 15:11:25.068718900 -0300
+ Birth: 2022-02-19 15:11:24.737304700 -0300
+IPFS hash: QmeZW1xVUaZSjpmbCoDdLVjeUWXkzidAy5Kzdqe1LYEGNz
+------------------------------
+  File: ./logo.png
+  Size: 346056    	Blocks: 680        IO Block: 4096   regular file
+Device: 8,20	Inode: 3166928     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-20 19:58:29.349068500 -0300
+Modify: 2019-01-28 22:26:46.568884000 -0200
+Change: 2022-02-19 15:11:12.994411400 -0300
+ Birth: 2022-02-19 15:11:12.800783500 -0300
+IPFS hash: QmQ4ZKbVxdfz1EzWVDQSYMwAQpA2dNHHiVVoSZtnmmyTWk
+------------------------------
+  File: ./nftbg
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 3924093     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-01 12:05:02.354100000 -0300
+Modify: 2023-01-21 22:30:10.900189300 -0300
+Change: 2023-01-21 22:30:10.900189300 -0300
+ Birth: 2021-11-15 22:05:07.717180500 -0300
+IPFS hash: 
+------------------------------

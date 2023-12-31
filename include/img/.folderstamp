@@ -1,0 +1,182 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Floflis-DNA/layers/soil/include/img
+
+  File: ./anything.png.Tasks.txt
+  Size: 171       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1472040     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:08.466870400 -0300
+Modify: 2023-01-21 21:26:33.781755900 -0300
+Change: 2023-01-21 21:26:33.933909900 -0300
+ Birth: -
+IPFS hash: QmXNFb3JLVSxRznKUTVub7P3kBddWeFsQPU2Y5PWGjKJ6y
+------------------------------
+  File: ./Avatars
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1460104     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-07 07:15:32.078474900 -0300
+Modify: 2023-09-06 03:38:47.477446100 -0300
+Change: 2023-09-06 03:38:47.477446100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Backgrounds
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1438938     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-07 07:15:32.144771200 -0300
+Modify: 2023-09-06 03:41:11.767668600 -0300
+Change: 2023-09-06 03:41:11.767668600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./default-testpage_old.pdf
+  Size: 167691    	Blocks: 328        IO Block: 4096   regular file
+Device: 8,20	Inode: 2425134     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:11.266891800 -0300
+Modify: 2021-06-30 13:53:04.569872000 -0300
+Change: 2023-01-16 16:16:03.849622400 -0300
+ Birth: -
+IPFS hash: QmWLfxQ1Uk7jdX9C4EADApZW1X3dxLUKFu6eEkRRkmsLvt
+------------------------------
+  File: ./default-testpage.pdf
+  Size: 131054    	Blocks: 256        IO Block: 4096   regular file
+Device: 8,20	Inode: 4073779     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:12.898904300 -0300
+Modify: 2023-02-02 19:44:08.564593700 -0300
+Change: 2023-02-02 19:44:08.567593400 -0300
+ Birth: -
+IPFS hash: QmPPPc2BF6gdgbfmqsx7JEx6ZFikkqmNrmNbd785npztfH
+------------------------------
+  File: ./default-testpage.pdf.odg
+  Size: 90038     	Blocks: 176        IO Block: 4096   regular file
+Device: 8,20	Inode: 4073776     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:12.882904200 -0300
+Modify: 2023-02-02 19:43:52.902623700 -0300
+Change: 2023-02-02 19:43:52.995499000 -0300
+ Birth: -
+IPFS hash: QmSzFRC7hkjWCxyyuzL4ZiuN4GLoitY5kFg8ZwKnk5Fy5M
+------------------------------
+  File: ./floflis-logo.png
+  Size: 16972     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 1111017     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:01.818819600 -0300
+Modify: 2021-11-06 14:57:05.082452000 -0300
+Change: 2023-02-04 14:37:43.222667300 -0300
+ Birth: -
+IPFS hash: QmXqTusWNbosJDM7F8X1Pcst3qYFZSq49Jvc1wxWK3sjY8
+------------------------------
+  File: ./floflis-logo.svg
+  Size: 12000     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 1459771     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:08.230868600 -0300
+Modify: 2023-01-16 16:27:48.393269400 -0300
+Change: 2023-02-04 14:37:47.264598600 -0300
+ Birth: -
+IPFS hash: QmbXRaxe5cPaL56aXLg3Ahiwid7dqT8zLYpd5pUjegjAtb
+------------------------------
+  File: ./icons
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 2376032     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-04 01:06:26.644114200 -0300
+Modify: 2023-09-04 01:06:15.597362500 -0300
+Change: 2023-09-04 01:06:15.597362500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./logo.svg
+  Size: 4185      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4122597     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:12.898904300 -0300
+Modify: 2023-05-02 16:54:44.930318400 -0300
+Change: 2023-05-02 20:18:30.073604500 -0300
+ Birth: -
+IPFS hash: QmQbiWiGH7fWHaR6W8g5WbU4UzG6GA2b7yrb8doj9itBbP
+------------------------------
+  File: ./networks
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 955121      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-01 13:02:50.957328700 -0300
+Modify: 2023-09-01 13:02:11.238597600 -0300
+Change: 2023-09-01 13:02:11.238597600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./not-yet
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 2737328     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-01 12:05:02.354100000 -0300
+Modify: 2023-08-10 17:41:40.321595500 -0300
+Change: 2023-08-10 17:41:40.321595500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./OSlogotype_maybenext.png
+  Size: 121822    	Blocks: 240        IO Block: 4096   regular file
+Device: 8,20	Inode: 4166760     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-03 22:13:06.785821900 -0300
+Modify: 2023-09-03 22:13:06.158822600 -0300
+Change: 2023-09-03 22:13:06.158822600 -0300
+ Birth: -
+IPFS hash: QmNiGeM4vnRPwgDC679LNov3TQWT71daBJe3g8354qhhMy
+------------------------------
+  File: ./OSlogotype_maybenext.svg
+  Size: 10999     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 1043051     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:01.738819000 -0300
+Modify: 2023-04-29 19:54:05.629369000 -0300
+Change: 2023-04-29 21:50:55.650727600 -0300
+ Birth: -
+IPFS hash: QmWtZxW5tFLCq4Yeqx8cvGA5SRYUmHazjEECa3abLU1bfZ
+------------------------------
+  File: ./OSlogotype.svg
+  Size: 9978      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4073761     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:12.854904000 -0300
+Modify: 2023-02-02 19:40:52.334439800 -0300
+Change: 2023-02-02 19:40:52.659064500 -0300
+ Birth: -
+IPFS hash: QmVz7wBVv1KnXDB2XLfnTvwo6y6pJsy7QskM86hW9hQA2z
+------------------------------
+  File: ./pixmaps
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4069144     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-01 12:05:02.400676500 -0300
+Modify: 2023-02-04 23:14:57.850390800 -0300
+Change: 2023-02-04 23:14:57.850390800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./token.svg
+  Size: 209812    	Blocks: 416        IO Block: 4096   regular file
+Device: 8,20	Inode: 4073760     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:12.814903700 -0300
+Modify: 2023-01-31 15:09:38.923640900 -0300
+Change: 2023-02-02 19:35:52.116767000 -0300
+ Birth: -
+IPFS hash: QmZ5SKMEULXBgcmmVHX7ED1byrHpBVDhZGMuzsX3MvvH6W
+------------------------------
+  File: ./watermarkmaker
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1443880     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-07 07:15:39.328319500 -0300
+Modify: 2023-09-06 03:38:45.801728700 -0300
+Change: 2023-09-06 03:38:45.801728700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

@@ -1,0 +1,2 @@
+[org.cinnamon]
+enabled-desklets=['calendar@deeppradhan:5:150:25', 'analog-clock@cobinja.de:6:150:200', 'bbcwx@oak-wood.co.uk:9:150:400']

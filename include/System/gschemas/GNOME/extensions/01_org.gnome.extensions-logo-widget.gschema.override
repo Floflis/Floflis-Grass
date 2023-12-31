@@ -1,0 +1,7 @@
+[org.gnome.shell.extensions.logo-widget]
+logo-border=uint32 50
+logo-file='/1/img/watermark.png'
+logo-opacity=uint32 255
+logo-position='bottom-right'
+logo-size=15.0
+overview-visible=false

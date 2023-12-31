@@ -1,0 +1,5 @@
+use imagemagick to cut avatars directly from ./Backgrounds/
+https://www.imagemagick.org/discourse-server/viewtopic.php?t=33209
+http://studio.imagemagick.org/discourse-server/viewtopic.php?f=1&t=20415&p=81480#p81480
+
+- add svg version of cinnamon default avatar (also reflect update in to-merge_firstlogon.sh)

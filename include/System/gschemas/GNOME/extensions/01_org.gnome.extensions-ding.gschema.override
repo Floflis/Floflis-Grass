@@ -1,0 +1,6 @@
+[org.gnome.shell.extensions.ding]
+check-x11wayland=true
+dark-text-in-labels=false
+icon-size='small'
+show-trash=true
+use-nemo=true

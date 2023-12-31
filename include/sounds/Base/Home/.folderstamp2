@@ -1,0 +1,182 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Floflis-DNA/layers/soil/include/sounds/Base/Home
+
+  File: ./.folderstamp
+  Size: 100       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4230146     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-12 01:46:50.601414500 -0300
+Modify: 2023-09-12 01:46:50.595891100 -0300
+Change: 2023-09-12 01:46:50.595891100 -0300
+ Birth: -
+IPFS hash: QmNwobG81pkFF6hEtHAwCVZiRooWS5RUrv3rs18xCEMcUy
+------------------------------
+  File: ./.folderstamp1
+  Size: 3230      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4225909     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-06 20:50:50.758264600 -0300
+Modify: 2023-09-06 15:04:26.044367400 -0300
+Change: 2023-09-12 01:46:06.788063600 -0300
+ Birth: -
+IPFS hash: QmYa1oMapnZJGzdnpHgEsP1qjidBeqcTTDxhsr6w96aGxD
+------------------------------
+  File: ./Dialog.ogg
+  Size: 108152    	Blocks: 216        IO Block: 4096   regular file
+Device: 8,20	Inode: 2395137     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.626909900 -0300
+Modify: 2021-05-30 20:42:00.175851800 -0300
+Change: 2021-05-30 20:42:00.175851800 -0300
+ Birth: -
+IPFS hash: QmYyW2dWtJcWQA1WEhTSzCUznYthFRYZueg9T54zt22zzC
+------------------------------
+  File: ./Navigation.ogg
+  Size: 75496     	Blocks: 152        IO Block: 4096   regular file
+Device: 8,20	Inode: 2395136     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.606909700 -0300
+Modify: 2021-05-30 20:41:35.780055400 -0300
+Change: 2021-05-30 20:41:35.780055400 -0300
+ Birth: -
+IPFS hash: QmeDrZEVUsEYxNf1ZaziDQ3V5YiuDcZvPRfnP5oxzEadB5
+------------------------------
+  File: ./Notification Important.flac
+  Size: 1183147   	Blocks: 2312       IO Block: 4096   regular file
+Device: 8,20	Inode: 957743      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.454908600 -0300
+Modify: 2017-03-17 11:15:30.000000000 -0300
+Change: 2021-05-28 12:09:29.335298300 -0300
+ Birth: -
+IPFS hash: QmRrdcqNPwMGU6AFNnpSNCx2ZJs7HG2u4G4TKhTXpFSbJa
+------------------------------
+  File: ./Notification.oga
+  Size: 78496     	Blocks: 160        IO Block: 4096   regular file
+Device: 8,20	Inode: 970745      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.546909300 -0300
+Modify: 2023-02-03 22:53:55.406961700 -0300
+Change: 2023-02-03 22:54:33.028944000 -0300
+ Birth: -
+IPFS hash: QmQ2EkRcazi4PXq2eiLxBMEJEP4L85GRjFhzXVXxmG6Qfm
+------------------------------
+  File: ./old/Inserting device.ogg
+  Size: 20052     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 957745      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.754910800 -0300
+Modify: 2011-03-17 12:47:18.000000000 -0300
+Change: 2021-05-28 11:58:09.140791300 -0300
+ Birth: -
+IPFS hash: QmYM6c2qX23R7LVnio5Q2jG9hWqyZht2WSg8urYUq7WGqa
+------------------------------
+  File: ./old/Leaving.ogg
+  Size: 224871    	Blocks: 440        IO Block: 4096   regular file
+Device: 8,20	Inode: 957747      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.822911400 -0300
+Modify: 2019-01-28 17:59:18.000000000 -0200
+Change: 2021-05-28 12:03:29.428584600 -0300
+ Birth: -
+IPFS hash: Qma7THxx7VBEu2usJf2TK4HwYbBZsynrfQGa5BFNsS6Ntu
+------------------------------
+  File: ./old/original/Dialog.flac
+  Size: 1037000   	Blocks: 2032       IO Block: 4096   regular file
+Device: 8,20	Inode: 957744      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.730910700 -0300
+Modify: 2021-05-30 13:37:58.267673300 -0300
+Change: 2023-09-12 01:44:27.667072600 -0300
+ Birth: -
+IPFS hash: QmYzBU4CViwbiKcMY7hUrvr7wStHd1J1Qbo8DsNfbmoYGm
+------------------------------
+  File: ./old/original/Navigation.flac
+  Size: 1005367   	Blocks: 1968       IO Block: 4096   regular file
+Device: 8,20	Inode: 2458617     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.854911600 -0300
+Modify: 2021-05-30 13:42:01.225704300 -0300
+Change: 2023-09-12 01:44:27.683493600 -0300
+ Birth: -
+IPFS hash: QmXABfYtN2geyGz6rJcxcXKJEcARz5icdJSMtB7SpN4jbD
+------------------------------
+  File: ./old/original/Notification.flac
+  Size: 1181178   	Blocks: 2312       IO Block: 4096   regular file
+Device: 8,20	Inode: 957742      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.678910300 -0300
+Modify: 2017-03-19 12:03:38.000000000 -0300
+Change: 2023-09-12 01:44:27.700206800 -0300
+ Birth: -
+IPFS hash: QmbZVFwTjVQzh4FeW5vPoUiEhXMucQXESLBs7SwvrpeQAA
+------------------------------
+  File: ./old/original/System Logon.flac
+  Size: 1255543   	Blocks: 2456       IO Block: 4096   regular file
+Device: 8,20	Inode: 2458618     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.878911800 -0300
+Modify: 2021-03-13 01:49:45.700727000 -0300
+Change: 2023-09-12 01:44:27.716680200 -0300
+ Birth: -
+IPFS hash: QmR6ogrBUQcHHy2itFBy3qSmbkwBEgSFLHPfheByMCUqYK
+------------------------------
+  File: ./old/Removing device.ogg
+  Size: 19150     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 957748      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.842911500 -0300
+Modify: 2020-01-04 17:24:12.759406000 -0300
+Change: 2021-05-28 11:58:09.147343700 -0300
+ Birth: -
+IPFS hash: QmUG32Hawp4qVBzgmh2wq8ykUZmQuemVWswjYjeyzthwfJ
+------------------------------
+  File: ./old/Starting.ogg
+  Size: 206873    	Blocks: 408        IO Block: 4096   regular file
+Device: 8,20	Inode: 957746      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.794911200 -0300
+Modify: 2019-01-28 17:57:32.000000000 -0200
+Change: 2021-05-28 12:03:29.435037200 -0300
+ Birth: -
+IPFS hash: QmaqWSF1M8gSqHE6wSgtRCwFQfWsqK7BRw4sTcsPVomiBA
+------------------------------
+  File: ./old/System Logon.oga
+  Size: 81704     	Blocks: 160        IO Block: 4096   regular file
+Device: 8,20	Inode: 944037      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-05 19:06:13.442908500 -0300
+Modify: 2023-02-03 22:50:23.901785000 -0300
+Change: 2023-09-12 01:45:17.651660900 -0300
+ Birth: -
+IPFS hash: QmYrfuw5x7ejEYe7hE4cGAWMb9WaZhR5bt19WMqPPgN2JN
+------------------------------
+  File: ./System Logon.aup3
+  Size: 12648448  	Blocks: 24704      IO Block: 4096   regular file
+Device: 8,20	Inode: 4225894     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-06 15:04:25.647156100 -0300
+Modify: 2023-09-05 15:28:32.518758300 -0300
+Change: 2023-09-12 01:46:06.745231800 -0300
+ Birth: -
+IPFS hash: QmZntEvLVWLuBdWDdT6kNbY1GhS4TX92ZSXyNbtxZmir4J
+------------------------------
+  File: ./System Logon.aup3.sourcesound.cid
+  Size: 47        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4225898     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-06 15:04:25.924376300 -0300
+Modify: 2023-09-06 15:02:53.339552500 -0300
+Change: 2023-09-12 01:46:06.756892600 -0300
+ Birth: -
+IPFS hash: QmSPZj22xikQT8NzkLZWMvnfQkMKxKLqE4vhpxBZS68BZ8
+------------------------------
+  File: ./System Logon.oga
+  Size: 1438518   	Blocks: 2816       IO Block: 4096   regular file
+Device: 8,20	Inode: 4225896     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-06 14:58:44.177534900 -0300
+Modify: 2023-09-05 15:28:30.463530900 -0300
+Change: 2023-09-12 01:46:06.779906400 -0300
+ Birth: -
+IPFS hash: QmckMqpEM6eDRrJPu8NHWdS7qaqDabHo79jPnswvKYT9ZC
+------------------------------

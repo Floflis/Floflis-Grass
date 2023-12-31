@@ -1,0 +1,222 @@
+This folder: /media/daniella/B1/git/Floflis/Floflis/Floflis-DNA/layers/soil/include/sounds/test/Yaru
+
+  File: ./.folderstamp
+  Size: 101       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340761     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:13:03.662524400 -0300
+Modify: 2023-12-09 04:13:03.662524400 -0300
+Change: 2023-12-09 04:13:03.662524400 -0300
+ Birth: 2023-12-09 04:13:03.662524400 -0300
+IPFS hash: 
+------------------------------
+  File: ./index.theme
+  Size: 77        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340760     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:26.387381200 -0300
+Modify: 2023-12-09 04:11:34.096688000 -0300
+Change: 2023-12-09 04:11:34.420679500 -0300
+ Birth: 2023-12-09 04:11:34.096688000 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/audio-volume-change.oga
+  Size: 8078      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340741     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.990854500 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.625235400 -0300
+ Birth: 2023-12-09 04:11:13.625235400 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/battery-low.oga
+  Size: 23389     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340742     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.986854600 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.629235300 -0300
+ Birth: 2023-12-09 04:11:13.625235400 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/bell.oga
+  Size: 15813     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340743     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.678861700 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.637235100 -0300
+ Birth: 2023-12-09 04:11:13.629235300 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/complete.oga
+  Size: 48977     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340744     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.926856000 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.637235100 -0300
+ Birth: 2023-12-09 04:11:13.637235100 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/desktop-login.oga
+  Size: 159288    	Blocks: 312        IO Block: 4096   regular file
+Device: 8,20	Inode: 4340745     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.670861800 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.641235000 -0300
+ Birth: 2023-12-09 04:11:13.637235100 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/desktop-logoff.oga
+  Size: 73320     	Blocks: 144        IO Block: 4096   regular file
+Device: 8,20	Inode: 4340746     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.662862000 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.645234900 -0300
+ Birth: 2023-12-09 04:11:13.641235000 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/device-added.oga
+  Size: 21799     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340747     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.678861700 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.649234800 -0300
+ Birth: 2023-12-09 04:11:13.645234900 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/device-removed.oga
+  Size: 20096     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340748     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.918856200 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.649234800 -0300
+ Birth: 2023-12-09 04:11:13.649234800 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/dialog-error.oga
+  Size: 18476     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340749     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.910856400 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.653234600 -0300
+ Birth: 2023-12-09 04:11:13.653234600 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/dialog-question.oga
+  Size: 20936     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340750     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.906856500 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.657234500 -0300
+ Birth: 2023-12-09 04:11:13.653234600 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/dialog-warning.oga
+  Size: 16992     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340751     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.842857900 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.661234400 -0300
+ Birth: 2023-12-09 04:11:13.657234500 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/message-new-email.oga
+  Size: 19100     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340752     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.830858200 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.661234400 -0300
+ Birth: 2023-12-09 04:11:13.661234400 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/message-new-instant.oga
+  Size: 20907     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340753     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.826858300 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.665234300 -0300
+ Birth: 2023-12-09 04:11:13.661234400 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/message.oga
+  Size: 19100     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340754     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.838858000 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.669234200 -0300
+ Birth: 2023-12-09 04:11:13.665234300 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/power-plug.oga
+  Size: 21799     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340755     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.758859800 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.669234200 -0300
+ Birth: 2023-12-09 04:11:13.669234200 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/power-unplug.oga
+  Size: 20096     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4340756     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.754859900 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.673234100 -0300
+ Birth: 2023-12-09 04:11:13.673234100 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/system-ready.oga
+  Size: 159288    	Blocks: 312        IO Block: 4096   regular file
+Device: 8,20	Inode: 4340757     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.754859900 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.677234000 -0300
+ Birth: 2023-12-09 04:11:13.673234100 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/trash-empty.oga
+  Size: 63914     	Blocks: 128        IO Block: 4096   regular file
+Device: 8,20	Inode: 4340758     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:12:48.742860200 -0300
+Modify: 2023-10-09 00:58:59.000000000 -0300
+Change: 2023-12-09 04:11:13.681233900 -0300
+ Birth: 2023-12-09 04:11:13.677234000 -0300
+IPFS hash: 
+------------------------------
+  File: ./stereo/ubuntu/desktop-login.oga -> /1/sounds/Starting.ogg
+  Size: 22        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,20	Inode: 4340739     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:11:13.617235600 -0300
+Modify: 2023-12-09 04:11:13.577236700 -0300
+Change: 2023-12-09 04:11:13.577236700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./stereo/ubuntu/system-ready.oga -> /usr/share/sounds/Yaru/stereo/desktop-login.oga
+  Size: 47        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,20	Inode: 4340740     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 04:11:13.621235500 -0300
+Modify: 2023-12-09 04:11:13.617235600 -0300
+Change: 2023-12-09 04:11:13.617235600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

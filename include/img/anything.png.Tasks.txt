@@ -1,0 +1,2 @@
+convert to their png version if png is required (such as plymouth/login screen)
+https://stackoverflow.com/questions/9853325/how-to-convert-a-svg-to-a-png-with-imagemagick

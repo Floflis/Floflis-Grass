@@ -1,0 +1,52 @@
+This folder: /media/daniella/B1/git/Floflis/Floflis/Floflis-DNA/layers/soil/include/System/gschemas/GNOME/extensions
+
+  File: ./01_org.gnome.extensions-arcmenu.gschema.override
+  Size: 3309      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340670     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 02:22:53.113037700 -0300
+Modify: 2023-12-09 02:22:35.463961100 -0300
+Change: 2023-12-09 03:00:32.643988300 -0300
+ Birth: 2023-12-09 02:59:30.829792900 -0300
+IPFS hash: 
+------------------------------
+  File: ./01_org.gnome.extensions-blur-my-shell.gschema.override
+  Size: 205       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340671     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 02:26:17.715485600 -0300
+Modify: 2023-12-09 02:26:06.983018500 -0300
+Change: 2023-12-09 03:01:53.769885200 -0300
+ Birth: 2023-12-09 02:59:30.837792700 -0300
+IPFS hash: 
+------------------------------
+  File: ./01_org.gnome.extensions-dash-to-panel.gschema.override
+  Size: 1371      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340672     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 02:25:00.867959900 -0300
+Modify: 2023-12-09 02:24:55.123678700 -0300
+Change: 2023-12-09 03:02:15.953357200 -0300
+ Birth: 2023-12-09 02:59:30.845792500 -0300
+IPFS hash: 
+------------------------------
+  File: ./01_org.gnome.extensions-ding.gschema.override
+  Size: 100       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340673     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 02:59:30.849792300 -0300
+Modify: 2023-12-09 02:30:53.801238700 -0300
+Change: 2023-12-09 03:02:41.224778300 -0300
+ Birth: 2023-12-09 02:59:30.849792300 -0300
+IPFS hash: 
+------------------------------
+  File: ./01_org.gnome.extensions-logo-widget.gschema.override
+  Size: 150       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4340674     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-09 02:59:30.853792200 -0300
+Modify: 2023-12-09 02:29:31.330723900 -0300
+Change: 2023-12-09 03:02:56.600437400 -0300
+ Birth: 2023-12-09 02:59:30.849792300 -0300
+IPFS hash: 
+------------------------------

@@ -1,0 +1,46 @@
+[org.gnome.desktop.wm.preferences]
+theme = 'Yaru-floflis'
+
+[org.gnome.desktop.interface]
+font-name='Ubuntu 11'
+monospace-font-name='Ubuntu Mono 11'
+document-font-name='Ubuntu 11'
+cursor-theme = 'Floflis'
+gtk-theme = 'Yaru-floflis'
+icon-theme = 'Floflis'
+
+[org.gnome.desktop.background]
+primary-color = '#dd682aff'
+picture-uri='file:///1/img/bg.jpg'
+picture-uri-dark='file:///1/img/bg.png'
+
+[org.gnome.desktop.screensaver]
+picture-uri='file:///1/img/lockscreen.png'
+
+[org.gnome.desktop.sound]
+event-sounds=true
+input-feedback-sounds=true
+theme-name="Yaru"
+
+[org.gnome.Terminal.Legacy.Settings]
+theme-variant='dark'
+
+#Gedit settings
+[org.gnome.gedit.preferences.editor]
+auto-indent=true
+bracket-matching=true
+display-line-numbers=true
+display-overview-map=true
+display-right-margin=true
+highlight-current-line=true
+scheme='oblivion'
+search-highlighting=true
+syntax-highlighting=true
+tabs-size=uint32 4
+use-default-font=true
+ensure-trailing-newline=true
+max-undo-actions=2000
+
+[org.gnome.shell]
+favorite-apps=['neurus.desktop', 'teams.desktop', 'firedoge.desktop', 'firefox.desktop', 'thunderbird.desktop', 'nemo.desktop', 'org.gnome.gedit.desktop', 'libreoffice-startcenter.desktop', 'org.gnome.Software.desktop', 'org.gnome.Terminal.desktop', 'yelp.desktop']
+enabled-extensions=['arcmenu@arcmenu.com', 'dash-to-panel@jderose9.github.com', 'blur-my-shell@aunetx', 'ding@rastersoft.com', 'tiling-assistant@ubuntu.com', 'logowidget@github.com.howbea']

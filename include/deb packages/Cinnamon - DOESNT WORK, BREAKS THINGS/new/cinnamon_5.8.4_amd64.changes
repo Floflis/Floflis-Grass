@@ -1,0 +1,76 @@
+Format: 1.8
+Date: Fri, 07 Jul 2023 15:15:53 +0200
+Source: cinnamon
+Binary: cinnamon cinnamon-common cinnamon-dbg cinnamon-doc
+Built-For-Profiles: noudeb
+Architecture: source all amd64
+Version: 5.8.4
+Distribution: victoria
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Clement Lefebvre <root@linuxmint.com>
+Description:
+ cinnamon   - Modern Linux desktop
+ cinnamon-common - Cinnamon desktop (Common data files)
+ cinnamon-dbg - Debugging symbols for the Cinnamon desktop
+ cinnamon-doc - Cinnamon documentation
+Changes:
+ cinnamon (5.8.4) victoria; urgency=medium
+ .
+   [ Michael Webster ]
+   * theme: Don't force too large a minimum size of PopupSliderMenuItem.
+ .
+   [ Rick Calixte ]
+   * cs_gestures.py: Cleaning up Python (#11726)
+ .
+   [ Michael Webster ]
+   * gestures: Fix EXEC actions not completing.
+   * sound applet: Fix alignment of icons in 'Launch player' submenu when a player is active.
+ .
+   [ kacperpaczos ]
+   * To fix the error of referencing a non-existent variable. (#11737)
+ .
+   [ Michael Webster ]
+   * popupMenu: restore minimum slider width, override sound slider only
+ .
+   [ Anaxímeno Brito ]
+   * grouped window list: fix drag and move app icon on the app list (#11740)
+ .
+   [ Rick Calixte ]
+   * cinnamon-close-dialog: Fix dialog text (#11739)
+ .
+   [ kacperpaczos ]
+   * Align labels in rows in the preffered applications to center (#11733)
+ .
+   [ Anaxímeno Brito ]
+   * cinnamon ui: improve overview animation (#11734)
+ .
+   [ aneios ]
+   * color-scheme follow simplified themes (#11706)
+ .
+   [ Clement Lefebvre ]
+   * l10n: Update POT
+Checksums-Sha1:
+ b856beaefe59e117d15e0ffce24f365d4eb15b4b 1413 cinnamon_5.8.4.dsc
+ cc58660c3fd8ff7273e45736210210555c708806 71259000 cinnamon_5.8.4.tar.xz
+ 884fed68f4884c08d5fc4bc3388ee83b7a71da85 1436816 cinnamon-common_5.8.4_all.deb
+ ea38ef74c3184f5a20932d9cf4255f0aad47796d 1294232 cinnamon-dbg_5.8.4_amd64.deb
+ 23a17b5c04a3c6f2d9b797a0f10c34155064bcc7 274196 cinnamon-doc_5.8.4_all.deb
+ ca2f31c3222adb8428e2078eda99eab1b422b0e7 24299 cinnamon_5.8.4_amd64.buildinfo
+ fa56f98835ad0bb2497389f7a9e23491e157eedf 499904 cinnamon_5.8.4_amd64.deb
+Checksums-Sha256:
+ eb56c7a4cbfe927ae89795eaf82550603b557f8415f6245cf64b5a2d3a65018c 1413 cinnamon_5.8.4.dsc
+ e923570189987fa1dcc4d7d2d3fe5b338988f3149f1413474c8c95963963d8d2 71259000 cinnamon_5.8.4.tar.xz
+ 0c049f2856adc457c3a9fcd67933e7dad064cc670934191d3ae9574cef70c50e 1436816 cinnamon-common_5.8.4_all.deb
+ 03d3656a2f2e43195f46bd61e6d35136ebe9a76a2be4fe988e2da0bb95f85dbe 1294232 cinnamon-dbg_5.8.4_amd64.deb
+ 614545ee684cd12f898f5a87aeb4f50e74cb08b0697de34249e10d537193e7bd 274196 cinnamon-doc_5.8.4_all.deb
+ 58233e02954da729a9cd5dd10ddaeb67f15d5d0cfd9af3fc951ff77e8f830ab5 24299 cinnamon_5.8.4_amd64.buildinfo
+ 47a41a800c0175aae2801b43479509c913baa492f366f01cd5831dde38693e15 499904 cinnamon_5.8.4_amd64.deb
+Files:
+ d0b9834325057b60c5c03371c24e3e4f 1413 x11 optional cinnamon_5.8.4.dsc
+ fcb47039302a3714d706da633ac6647b 71259000 x11 optional cinnamon_5.8.4.tar.xz
+ 4d3683666aa69ce98acda3204a377cdc 1436816 x11 optional cinnamon-common_5.8.4_all.deb
+ 0961634b3ea7bc2e50bd2893020f2af8 1294232 debug extra cinnamon-dbg_5.8.4_amd64.deb
+ fcf8b858f92a496672461eb1ef1d5fc2 274196 doc optional cinnamon-doc_5.8.4_all.deb
+ e3f30443f8fb13c66a8f1321acd42928 24299 x11 optional cinnamon_5.8.4_amd64.buildinfo
+ 11188392ad4c3512e476d4748a37b16c 499904 x11 optional cinnamon_5.8.4_amd64.deb

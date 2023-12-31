@@ -1,0 +1,172 @@
+This folder: /media/daniella/B/bkp/ST500LM012 HN-M500MBB Dat/0/ok/Pendrive/flshdrive/0.Floflis-DNA/layers/soil/include/deb packages
+
+  File: ./.folderstamp
+  Size: 132       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1456201     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-15 21:00:47.312549300 -0300
+Modify: 2023-01-15 21:00:47.321935100 -0300
+Change: 2023-01-15 21:00:47.321935100 -0300
+ Birth: -
+IPFS hash: QmWgqVyoAbmV1VLT1ss3ZAXNFnPepazcVdvfeetbqz8ACU
+------------------------------
+  File: ./balena-etcher_1.10.11_amd64.deb
+  Size: 86839360  	Blocks: 169616     IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1435472     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 17:31:54.654814900 -0300
+Modify: 2022-12-23 22:10:05.713320900 -0300
+Change: 2022-12-23 22:10:38.025033900 -0300
+ Birth: -
+IPFS hash: QmNjoLgdxYR7aGsa4L1utW7PyZDn8CWynPRQdYgtupF1UT
+------------------------------
+  File: ./Cinnamon - DOESNT WORK, BREAKS THINGS/packages.tar.gz
+  Size: 3384384   	Blocks: 6616       IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1441626     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-31 18:14:38.412112500 -0300
+Modify: 2022-12-31 17:36:36.237335400 -0300
+Change: 2022-12-31 17:52:08.005799200 -0300
+ Birth: -
+IPFS hash: QmWYsh7DNCSBSkMkMurBAmk129BU7eb69dp1uT8usGP8xr
+------------------------------
+  File: ./Cinnamon - DOESNT WORK, BREAKS THINGS/packages.tar.gz.cid
+  Size: 47        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1441617     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-31 17:52:07.946105300 -0300
+Modify: 2022-12-31 17:39:03.389183300 -0300
+Change: 2022-12-31 17:52:07.915537400 -0300
+ Birth: -
+IPFS hash: QmaVR86KmirnyD8Kosx4yuf75UthHEEPjeMF1kFypE8zRG
+------------------------------
+  File: ./Cinnamon - DOESNT WORK, BREAKS THINGS/packages.tar.gz.weborigin.txt
+  Size: 86        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1441624     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-31 17:52:07.938521900 -0300
+Modify: 2022-12-31 17:37:56.337260400 -0300
+Change: 2022-12-31 17:52:07.944426300 -0300
+ Birth: -
+IPFS hash: QmYRANDKhpuZoCwjHSS6BcNDynVDd3UkyB1ojkiVwqmYmC
+------------------------------
+  File: ./folderstamp_recursive.sh
+  Size: 2365      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1456200     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-15 21:00:47.311997700 -0300
+Modify: 2022-11-22 18:45:33.375753300 -0300
+Change: 2023-01-15 21:00:38.595073200 -0300
+ Birth: -
+IPFS hash: QmRmYGZyeoWY4jHLex4didmsviDWE3BDhMjuRicfENGBm2
+------------------------------
+  File: ./hugo/hugo_0.89.2_Linux-32bit.deb
+  Size: 13295608  	Blocks: 25968      IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3923727     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:38.651283900 -0300
+Modify: 2021-11-09 13:07:24.191818000 -0300
+Change: 2021-11-15 02:49:08.716694700 -0300
+ Birth: -
+IPFS hash: QmWccfMjjhEPKvEQ1VNtvuCNtuuTbMZqiAf4unCEfEfbfQ
+------------------------------
+  File: ./hugo/hugo_0.89.2_Linux-ARM.deb
+  Size: 13765328  	Blocks: 26888      IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3923726     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:38.251166700 -0300
+Modify: 2021-11-09 13:07:44.340942000 -0300
+Change: 2021-11-15 02:49:08.592402700 -0300
+ Birth: -
+IPFS hash: Qmcpv4xeMWgkv99sYm4qWhCwHyt9STcsYvEW23nJydtYNv
+------------------------------
+  File: ./hugo/hugo_0.89.2_Linux-ARM64.deb
+  Size: 13679158  	Blocks: 26720      IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3923720     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:37.673588600 -0300
+Modify: 2021-11-09 13:07:47.709262000 -0300
+Change: 2021-11-15 02:49:08.343792100 -0300
+ Birth: -
+IPFS hash: QmdFSkwVZ2dFRji6M2pzi2KNUj96ADr5NViJt4Njy7WmQd
+------------------------------
+  File: ./hugo/hugo_extended_0.89.2_Linux-64bit.deb
+  Size: 16157094  	Blocks: 31560      IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3923716     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-11-15 02:52:40.831373900 -0300
+Modify: 2021-11-09 13:07:56.688132000 -0300
+Change: 2021-11-15 02:49:08.231898800 -0300
+ Birth: -
+IPFS hash: QmZ4Axd2PnctCdiqytvwkzCmpz3dbo4fTQRdF46z1wEfPY
+------------------------------
+  File: ./ipfs-desktop-0.17.0-linux-amd64.deb
+  Size: 91196998  	Blocks: 178120     IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3964008     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-11-25 21:29:56.696641400 -0300
+Modify: 2021-11-25 00:47:24.734648000 -0300
+Change: 2021-11-25 00:48:25.387805300 -0300
+ Birth: -
+IPFS hash: Qmc7dQz2b8CjoYm7v4gj2QKRd5Ys1vKz35aB8e1DuEyCmY
+------------------------------
+  File: ./pending/almanah/almanah_0.12.0-2_amd64.deb
+  Size: 216036    	Blocks: 424        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 2395162     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-10-05 13:49:26.773497500 -0300
+Modify: 2021-01-10 17:13:36.000000000 -0300
+Change: 2021-05-30 20:54:59.041703300 -0300
+ Birth: -
+IPFS hash: Qmf8UnPQV7qsanN6jPQ5DjKwWXzbBdEAQSSUMikrYY1vjC
+------------------------------
+  File: ./pending/almanah/almanah_0.12.0-2_arm64.deb
+  Size: 208524    	Blocks: 408        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 2395163     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-10-05 13:49:26.833983700 -0300
+Modify: 2021-01-10 17:13:20.000000000 -0300
+Change: 2021-05-30 20:54:59.066961800 -0300
+ Birth: -
+IPFS hash: QmQjVrgAMCLGyTQW2BZo5WQ1E21esefPeW9R5hg7aLgq2b
+------------------------------
+  File: ./pending/almanah/almanah_0.12.0-2_armhf.deb
+  Size: 201080    	Blocks: 400        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 2395164     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-10-05 13:49:26.855068400 -0300
+Modify: 2021-01-10 17:13:06.000000000 -0300
+Change: 2021-05-30 20:54:59.091403100 -0300
+ Birth: -
+IPFS hash: QmUrKe2M7XTQZFGqpZy7giZSEzwMx6RhjS1rEVoCZAqf8u
+------------------------------
+  File: ./pending/frame_0.4.4_amd64.deb
+  Size: 66739128  	Blocks: 130352     IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 3923736     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:35.077222900 -0300
+Modify: 2021-11-14 00:48:51.682238000 -0300
+Change: 2021-11-24 15:46:02.689109500 -0300
+ Birth: -
+IPFS hash: QmQbMPeBoZSyxktMGhdGp2FsXwpdPHiY9qLEXSSr2K2VqJ
+------------------------------
+  File: ./pending/sfxr-sdl_1.2.1-1_amd64.deb
+  Size: 23700     	Blocks: 48         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 2395167     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:35.057146100 -0300
+Modify: 2021-03-12 18:53:18.000000000 -0300
+Change: 2021-11-24 15:46:02.695832100 -0300
+ Birth: -
+IPFS hash: QmVjSDR1f9HFwtaug7DRC8uuS72iMdkB5FZYSJRAr6hehh
+------------------------------
+  File: ./pending/stacer.deb
+  Size: 21748006  	Blocks: 42480      IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 2395166     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-12-03 02:11:34.763991800 -0300
+Modify: 2019-05-12 17:56:16.000000000 -0300
+Change: 2021-11-24 15:46:02.703200500 -0300
+ Birth: -
+IPFS hash: QmawnxEHUBzXNpAD5FWu98PpvY74GmTLxCqWimriD52vgK
+------------------------------

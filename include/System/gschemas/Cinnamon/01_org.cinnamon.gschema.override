@@ -1,0 +1,90 @@
+[org.cinnamon.desktop.wm.preferences]
+theme='Yaru-floflis'
+titlebar-font='Ubuntu Bold 11'
+
+[org.cinnamon.desktop.interface]
+font-name='Ubuntu 11'
+monospace-font-name='Ubuntu Mono 11'
+document-font-name='Ubuntu 11'
+icon-theme='Floflis'
+gtk-theme='Yaru-floflis'
+cursor-theme='Floflis'
+clock-show-date=true
+clock-show-seconds=true
+buttons-have-icons=true
+
+[org.cinnamon.theme]
+name='Yaru-floflis'
+symbolic-relative-size=1
+
+[org.cinnamon.desktop.background]
+picture-uri='file:///1/img/bg.jpg'
+
+[org.cinnamon.desktop.background.slideshow]
+image-source='xml:///usr/share/gnome-background-properties/floflis-backgrounds.xml'
+
+[org.cinnamon.desktop.screensaver]
+font-time='Ubuntu Bold 64'
+
+[org.nemo.desktop]
+computer-icon-visible=true
+home-icon-visible=true
+trash-icon-visible=true
+volumes-visible=false
+desktop-layout='true:true'
+use-desktop-grid=true
+font='Ubuntu 11'
+
+[org.cinnamon]
+app-menu-icon-name='distributor-logo'
+app-menu-label='Explore'
+date-format='%a, %h %d %Y%l:%M %p'
+run-dialog-aliases=['<Super>r']
+system-icon='distributor-logo'
+startup-icon-name='distributor-logo'
+demands-attention-passthru-wm-classes=['gnome-screenshot', 'lxterminal', 'xfce4-terminal', 'firefox', 'firedoge', 'libreoffice', 'soffice']
+favorite-apps=['firefox.desktop', 'cinnamon-settings.desktop', 'org.gnome.Calculator.desktop', 'sol.desktop', 'remote-viewer.desktop', 'cinnamon-settings-universal-access.desktop']
+
+[org.cinnamon.desktop.keybindings.media-keys]
+screenreader=['<Alt><Super>s']
+
+[org.cinnamon.desktop.sound]
+event-sounds=true
+input-feedback-sounds=true
+maximum-volume=100
+theme-name="Floflis"
+volume-sound-enabled=true
+volume-sound-file="/1/sounds/Changing volume.ogg"
+
+[org.cinnamon.sounds]
+login-file="/1/sounds/System Logon.oga"
+logout-file="/1/sounds/Leaving.ogg"
+notification-file="/1/sounds/Notification.oga"
+plug-file="/1/sounds/Inserting device.ogg"
+unplug-file="/1/sounds/Removing device.ogg"
+tile-file="/1/sounds/Manipulating windows.ogg"
+close-file="/1/sounds/Manipulating windows.ogg"
+minimize-file="/1/sounds/Manipulating windows.ogg"
+unmaximize-file="/1/sounds/Manipulating windows.ogg"
+switch-file="/1/sounds/Switching workspace.ogg"
+map-file="/1/sounds/Manipulating windows.ogg"
+maximize-file="/1/sounds/Manipulating windows.ogg"
+login-enabled=true
+logout-enabled=true
+notification-enabled=true
+plug-enabled=true
+unplug-enabled=true
+tile-enabled=true
+close-enabled=true
+minimize-enabled=true
+unmaximize-enabled=true
+switch-enabled=true
+map-enabled=false
+maximize-enabled=false
+
+[org.cinnamon.desktop.default-applications.terminal]
+exec='gnome-terminal'
+
+[com.ubuntu.update-notifier:Cinnamon]
+notify-ubuntu-advantage-available=false
+show-livepatch-status-icon=false

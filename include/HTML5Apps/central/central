@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ x$DISPLAY != x ] ; then
+   cd /1/apps/central && npm start
+   else
+      bash /usr/lib/floflis/layers/core/central
+fi
