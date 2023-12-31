@@ -104,11 +104,13 @@ echo "- Installing programs..."
 #-$maysudo chmod -R a+rwX ~/Desktop/internet.desktop
 #-less things to add
 
-   if [ -e /tmp/cubicmode ]; then
+if [[ $flofmach != "Termux" ]]; then
+if [ -e /tmp/cubicmode ]; then
       echo "Detected Cubic mode 🧚"
       echo "Installing to-merge.sh..."
       $maysudo bash ./to-merge.sh
       echo "Done (to-merge.sh)"
+fi
 fi
 
    echo "- Cleanning install, saving settings..."
