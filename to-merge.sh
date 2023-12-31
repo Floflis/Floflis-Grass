@@ -661,8 +661,8 @@ sharedchain
 if [ $(bash /usr/lib/floflis/layers/soil/tools/DEtector.sh) = "cinnamon" ];then
 echo "Attempting to upgrade Cinnamon..."
 $maysudo apt upgrade cinnamon-desktop-environment
-$maysudo apt install ubuntucinnamon-desktop
-$maysudo apt upgrade ubuntucinnamon-desktop
+$maysudo apt install cinnamon-desktop
+$maysudo apt upgrade cinnamon-desktop
 $maysudo apt-get autoremove
 $maysudo apt-get autoclean
 $maysudo apt --fix-broken install
