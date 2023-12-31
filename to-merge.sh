@@ -388,18 +388,18 @@ if [ ! -e /usr/share/sounds/Yaru/stereo/ubuntu ]; then $maysudo mkdir /usr/share
 if [ ! -f /usr/share/sounds/Yaru/stereo/desktop-login.oga ]; then $maysudo ln -s /1/sounds/Starting.oga /usr/share/sounds/Yaru/stereo/desktop-login.oga; fi
 # <-- BASE LAYER
 
-# HOME LAYER -->
-# Home sounds patch
-$maysudo cp -f include/sounds/Base/Home/Dialog.ogg /1/sounds/Dialog.ogg
-$maysudo cp -f include/sounds/Base/Home/Navigation.ogg /1/sounds/Navigation.ogg
-$maysudo cp -f include/sounds/Base/Home/Notification.oga /1/sounds/Notification.oga
-$maysudo cp -f include/sounds/Base/Home/Notification\ Important.flac /1/sounds/Notification\ Important.flac
-$maysudo cp -f include/sounds/Base/Home/System\ Logon.oga /1/sounds/System\ Logon.oga
-if [ -f /1/sounds/Starting.oga ]; then $maysudo rm -f /1/sounds/Starting.oga; fi
-$maysudo ln -s /1/sounds/System\ Logon.oga /1/sounds/Starting.oga
-$maysudo ln -s /usr/share/sounds/ubuntu/ringtones/Celestial.ogg /1/sounds/Launcher.ogg
-$maysudo ln -s /usr/share/sounds/ubuntu/ringtones/Ubuntu.ogg /1/sounds/Call.ogg
-# <-- HOME LAYER
+## HOME LAYER -->
+## Home sounds patch
+#$maysudo cp -f include/sounds/Base/Home/Dialog.ogg /1/sounds/Dialog.ogg
+#$maysudo cp -f include/sounds/Base/Home/Navigation.ogg /1/sounds/Navigation.ogg
+#$maysudo cp -f include/sounds/Base/Home/Notification.oga /1/sounds/Notification.oga
+#$maysudo cp -f include/sounds/Base/Home/Notification\ Important.flac /1/sounds/Notification\ Important.flac
+#$maysudo cp -f include/sounds/Base/Home/System\ Logon.oga /1/sounds/System\ Logon.oga
+#if [ -f /1/sounds/Starting.oga ]; then $maysudo rm -f /1/sounds/Starting.oga; fi
+#$maysudo ln -s /1/sounds/System\ Logon.oga /1/sounds/Starting.oga
+#$maysudo ln -s /usr/share/sounds/ubuntu/ringtones/Celestial.ogg /1/sounds/Launcher.ogg
+#$maysudo ln -s /usr/share/sounds/ubuntu/ringtones/Ubuntu.ogg /1/sounds/Call.ogg
+## <-- HOME LAYER
 
 if [ $(bash /usr/lib/floflis/layers/soil/tools/DEtector.sh) = "cinnamon" ];then
 echo "Installing Cinnamon zombiespices'..."
